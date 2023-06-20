@@ -1,0 +1,2 @@
+# project_magang
+sembarang
